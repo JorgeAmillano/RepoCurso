@@ -1,1 +1,3 @@
-Esto es un mismo archivo desde local
+
+Esto es un mismo archivo desde local y remoto fusionado
+
